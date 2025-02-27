@@ -3,12 +3,12 @@
 
 I'm a front-end developer with a strong focus on **accessible, scalable, and maintainable** code. I specialize in building component-driven UIs that don’t just *look* good, but *work* well for everyone.  
 
-Currently wrangling **Gatsby + Drupal** into something coherent. Previously built large-scale features for **Google Next**, worked on **Drupal CMS projects**, and helped keep things **A11Y-compliant** across multiple platforms.  
+Currently wrangling **Gatsby + Drupal** into something coherent. Previously built large-scale features for **Google Next**, **Purina**, worked on **Drupal CMS projects**, and helped keep things **A11Y-compliant** across multiple platforms.  
 
 ## 🔧 What I Work With  
 🖥️ **Languages:** JavaScript (ES6+), TypeScript, PHP (as needed, begrudgingly)  
-🌐 **Front-End:** React, Gatsby, Vue, Twig  
-🎨 **UI/UX:** Figma, Storybook, Design Systems  
+🌐 **Front-End:** React, Gatsby, Vue, Twig, Angular  
+🎨 **UI/UX:** Figma, Storybook  
 🔩 **Other Stuff:** Drupal, DDEV, Docker, Cloud (Google, but let’s not talk about that)  
 
 ## 💡 What I’m Into  
