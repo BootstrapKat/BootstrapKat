@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Kat!  
+> Front-End Developer | Occasional Tinkerer | UI/UX Enthusiast  
 
-<!--
-**BootstrapKat/BootstrapKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer with a strong focus on **accessible, scalable, and maintainable** code. I specialize in building component-driven UIs that don’t just *look* good, but *work* well for everyone.  
 
-Here are some ideas to get you started:
+Currently wrangling **Gatsby + Drupal** into something coherent. Previously built large-scale features for **Google Next**, worked on **Drupal CMS projects**, and helped keep things **A11Y-compliant** across multiple platforms.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With  
+🖥️ **Languages:** JavaScript (ES6+), TypeScript, PHP (as needed, begrudgingly)  
+🌐 **Front-End:** React, Gatsby, Vue, Twig  
+🎨 **UI/UX:** Figma, Storybook, Design Systems  
+🔩 **Other Stuff:** Drupal, DDEV, Docker, Cloud (Google, but let’s not talk about that)  
+
+## 💡 What I’m Into  
+- **UI/UX Design:** Making things that are actually usable.  
+- **Performance Optimization:** Because *fast* is a feature.  
+- **Progressive Web Apps:** Web apps should feel like real apps.  
+- **Creative Coding:** Occasionally dabbling in CSS art and generative design.  
+
+## ✨ Fun Facts  
+- I once had to learn **Vue in a month** to build a major event site. It worked out (somehow).  
+- I started out in **accessibility engineering** and will absolutely side-eye your div soup.  
+- **Minimalism in code, maximalism in hobbies**—I sew, crochet, cross-stitch, and garden (with varying success).  
+- **Always open to nerding out** about UX, design systems, and front-end architecture.  
+
+### 📫 Want to Chat?  
+Whether it's about front-end, design systems, or just trading dev horror stories—feel free to reach out!  
